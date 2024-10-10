@@ -7,3 +7,5 @@ Problem: detect image and only retain the important information in an image
 WorkFlow: image processing using OpenCV. No Model training, only libraries.
 
 Tools & Framewroks: Python, matplotlib, numpy, TensorFlow, Jupyter Notebook, Anaconda (virtual environment), OpenCV
+
+Learning Outcomes: different formats and functions that are built-in that can be used foe edge detection
